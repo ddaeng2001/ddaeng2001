@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div align="center">
+  <img src="https://i.pinimg.com/236x/7e/2e/55/7e2e55a38885bfe567085239eeeba9a1.jpg" />
+</div>
 
 <!--
 **ddaeng2001/ddaeng2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
