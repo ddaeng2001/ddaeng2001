@@ -1,19 +1,33 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Suhyeon's%20Github&fontSize=70" alt="Suhyeon's Github Header">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Hello%20World!&fontSize=70" alt="Suhyeon's Github Header">
 </div>
-
 
 <div align="center">
-    <img src="https://i.pinimg.com/236x/7e/2e/55/7e2e55a38885bfe567085239eeeba9a1.jpg" width="300px" height="500px" style="float: left; margin-right: 20px;"><br><br>
+  <table border="0" cellpadding="0" cellspacing="0" width="600">   
+  <tr>
+      <td valign="top" width="250">
+        <img src="https://i.pinimg.com/236x/7e/2e/55/7e2e55a38885bfe567085239eeeba9a1.jpg" width="300px" height="500px" style="float: left; margin-right: 20px;">
+      </td>
+      <td valign="top" style="padding-left: 20px;">
+        <h2>SuHyeon's Github</h2>
+        <p>
+          이 텍스트는 이미지의 윗 가장자리에 맞춰집니다.<br>
+          테이블 안에 배치되므로 전체 블록이 안정적으로 중앙 정렬됩니다.
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
+
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
@@ -29,6 +43,7 @@
 </div>
 
 <br>
+
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
